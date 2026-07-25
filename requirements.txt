@@ -38,3 +38,4 @@ requests>=2.32.0
 
 # OpenAI API
 openai>=1.40.0
+langchain-chroma>=0.1.0
